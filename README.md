@@ -36,6 +36,7 @@ __`img.`__: image &emsp; |  __`vid.`__: video &emsp; | __`3d.`__: 3D &emsp; | __
 - [[Arxiv](https://arxiv.org/abs/2209.15639)] F-VLM: Open-Vocabulary Object Detection upon Frozen Vision and Language Models. [__`img.`__, __`obj.`__] 
 - [[Arxiv](https://arxiv.org/abs/2206.11134)] Open Vocabulary Object Detection with Proposal Mining and Prediction Equalization. [[pytorch](https://github.com/peixianchen/MEDet)] [__`img.`__, __`obj.`__] 
 - [[Arxiv](https://arxiv.org/abs/2211.02219)] Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models. [[pytorch](https://github.com/machengcheng2016/Subspace-Prompt-Learning)] [__`img.`__, __`obj.`__] 
+- [[Arxiv](https://arxiv.org/abs/2211.14843)] Learning Object-Language Alignments for Open-Vocabulary Object Detection. [[pytorch](https://github.com/clin1223/VLDet)] [__`img.`__, __`obj.`__] 
 - [[Arxiv](https://arxiv.org/abs/2208.08984)] Open-Vocabulary Panoptic Segmentation with MaskCLIP. [__`img.`__, __`pan.`__] 
 - [[Arxiv](https://arxiv.org/abs/2207.01987)] Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning. [__`3d.`__, __`obj.`__] 
 ## 2021
