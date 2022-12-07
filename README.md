@@ -1,4 +1,4 @@
-# Awesome-Open-Vocalbulary-Object-Detection[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Open-Vocabulary-Object-Detection[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <h1> 
 
