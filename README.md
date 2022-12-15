@@ -39,6 +39,7 @@ __`img.`__: image &emsp; |  __`vid.`__: video &emsp; | __`3d.`__: 3D &emsp; | __
 - [[Arxiv](https://arxiv.org/abs/2211.14843)] Learning Object-Language Alignments for Open-Vocabulary Object Detection. [[pytorch](https://github.com/clin1223/VLDet)] [__`img.`__, __`obj.`__] 
 - [[Arxiv](https://arxiv.org/abs/2208.08984)] Open-Vocabulary Panoptic Segmentation with MaskCLIP. [__`img.`__, __`pan.`__] 
 - [[Arxiv](https://arxiv.org/abs/2210.04150)] Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP. [[pytorch](https://github.com/facebookresearch/ov-seg)][__`img.`__, __`sem.`__] 
+- [[Arxiv](https://arxiv.org/abs/2212.04994)] Open Vocabulary Semantic Segmentation with Patch Aligned Contrastive Learning. [__`img.`__, __`sem.`__] 
 - [[Arxiv](https://arxiv.org/abs/2207.01987)] Open-Vocabulary 3D Detection via Image-level Class and Debiased Cross-modal Contrastive Learning. [__`3d.`__, __`obj.`__] 
 ## 2021
 - [[ICLR](https://arxiv.org/abs/2104.13921)] Open-vocabulary Object Detection via Vision and Language Knowledge Distillation. [[pytorch](https://github.com/tensorflow/tpu/tree/master/models/official/detection/projects/vild)] [__`img.`__, __`obj.`__] 
